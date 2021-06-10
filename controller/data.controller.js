@@ -35,7 +35,7 @@ exports.create = (req,res)=>{
 		})
 	}
 }
-
+//asdsad
 //get data by ID
 exports.findDataId = (req,res)=>{
 	const {id} = req.params
