@@ -1,6 +1,7 @@
 'use strict'
 const db = require('./../config/db.config');
 
+//data a
 var data = function(value){
 	this.user = value.user,
 	this.pass = value.pass,
